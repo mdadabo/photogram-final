@@ -50,5 +50,4 @@ class User < ApplicationRecord
   dependent: :destroy
   )
 
-  
 end
